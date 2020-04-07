@@ -1,0 +1,41 @@
+D:\חנות נעליים\חנות נעליים\bin\Debug\חנות נעליים.exe.config
+D:\חנות נעליים\חנות נעליים\bin\Debug\חנות נעליים.exe
+D:\חנות נעליים\חנות נעליים\bin\Debug\חנות נעליים.pdb
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.csprojResolveAssemblyReference.cache
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.enter.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.Properties.Resources.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.csproj.GenerateResource.Cache
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.exe
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.pdb
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.mainform.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.shop.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.ovdeem.resources
+D:\חנות נעליים\חנות נעליים\bin\Debug\shoe shop.mdb
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.shoes.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.spakim.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.mahlakot.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.clock.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.mishmarot.resources
+F:\חנות נעליים\חנות נעליים\bin\Debug\חנות נעליים.exe.config
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.exe
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.pdb
+F:\חנות נעליים\חנות נעליים\bin\Debug\shoe shop.mdb
+F:\חנות נעליים\חנות נעליים\bin\Debug\חנות נעליים.exe
+F:\חנות נעליים\חנות נעליים\bin\Debug\חנות נעליים.pdb
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.csprojResolveAssemblyReference.cache
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.clock.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.enter.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.mahlakot.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.mainform.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.mishmarot.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.ovdeem.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.Properties.Resources.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.shoes.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.shop.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.spakim.resources
+F:\חנות נעליים\חנות נעליים\obj\Debug\חנות נעליים.csproj.GenerateResource.Cache
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.archives.resources
+D:\חנות נעליים\חנות נעליים\obj\Debug\חנות_נעליים.menahel.resources
+C:\Users\Comp-19\Desktop\2018\עבודות גמר הנדסת תוכנה 2018\יוסף 211450259\חנות נעליים\bin\Debug\חנות נעליים.exe.config
+C:\Users\Comp-19\Desktop\2018\עבודות גמר הנדסת תוכנה 2018\יוסף 211450259\חנות נעליים\obj\Debug\חנות נעליים.exe
+C:\Users\Comp-19\Desktop\2018\עבודות גמר הנדסת תוכנה 2018\יוסף 211450259\חנות נעליים\obj\Debug\חנות נעליים.pdb

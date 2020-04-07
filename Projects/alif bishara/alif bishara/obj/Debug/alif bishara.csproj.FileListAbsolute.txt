@@ -1,0 +1,35 @@
+C:\Users\alif\Desktop\alif bishara\alif bishara\bin\Debug\alif bishara.exe.config
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif bishara.exe
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif bishara.pdb
+C:\Users\alif\Desktop\alif bishara\alif bishara\bin\Debug\alif bishara.exe
+C:\Users\alif\Desktop\alif bishara\alif bishara\bin\Debug\alif bishara.pdb
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif bishara.csprojResolveAssemblyReference.cache
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.Form1.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.Form2.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.Form3.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.FormNew.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.frmKors.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.frmMain.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.frmTeacher.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.Properties.Resources.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif_bishara.tashlom.resources
+C:\Users\alif\Desktop\alif bishara\alif bishara\obj\Debug\alif bishara.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\bin\Debug\alif bishara.exe.config
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif bishara.exe
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif bishara.pdb
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\bin\Debug\alif bishara.exe
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\bin\Debug\alif bishara.pdb
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif bishara.csprojResolveAssemblyReference.cache
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.Form1.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.Form2.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.Form3.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.FormNew.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.frmKors.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.frmMain.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.frmTeacher.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.Properties.Resources.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif_bishara.tashlom.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif bishara.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\אנואר מחשבים\עבודות בגרות יב 2017\alif bishara\alif bishara\bin\Debug\alif bishara.exe.config
+C:\Users\Comp-19\Desktop\אנואר מחשבים\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif bishara.exe
+C:\Users\Comp-19\Desktop\אנואר מחשבים\עבודות בגרות יב 2017\alif bishara\alif bishara\obj\Debug\alif bishara.pdb

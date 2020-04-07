@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ng-focus-on</id>
+    <version>0.2.2</version>
+    <title>ng-focus-on</title>
+    <authors>Good Eggs</authors>
+    <owners>Good Eggs</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/goodeggs/ng-focus-on</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An angularjs directive and corresponding factory to make elements focusable. It's easy!</description>
+  </metadata>
+</package>

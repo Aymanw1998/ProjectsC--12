@@ -1,0 +1,76 @@
+C:\Users\אימן\Desktop\DarQuran\DarQuran\bin\Debug\DarQuran.exe.config
+C:\Users\אימן\Desktop\DarQuran\DarQuran\bin\Debug\DarQuran.exe
+C:\Users\אימן\Desktop\DarQuran\DarQuran\bin\Debug\DarQuran.pdb
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.csprojResolveAssemblyReference.cache
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.Login.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.Properties.Resources.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.csproj.GenerateResource.Cache
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.exe
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.pdb
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.Students.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.Save.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.Teachers.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.TheMain.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.Korsim.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.ListStudents.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.BetKasef.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.HodorHeiab.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.OnlyStudent.resources
+C:\Users\אימן\Desktop\DarQuran\DarQuran\obj\Debug\DarQuran.MeE.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.exe.config
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.exe
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.pdb
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.csprojResolveAssemblyReference.cache
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.BetKasef.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.HodorHeiab.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Korsim.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.ListStudents.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Login.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.MeE.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.OnlyStudent.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Properties.Resources.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Save.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Students.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Teachers.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.TheMain.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.csproj.GenerateResource.Cache
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.csprojAssemblyReference.cache
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.BetKasef.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.HodorHeiab.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Korsim.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.ListStudents.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Login.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.MeE.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.OnlyStudent.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Properties.Resources.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Save.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Students.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Teachers.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.TheMain.resources
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.csproj.GenerateResource.cache
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.exe
+D:\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.exe.config
+D:\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.exe
+D:\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.pdb
+D:\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.pdb
+D:\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.mdb
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.csprojAssemblyReference.cache
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.BetKasef.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.HodorHeiab.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Korsim.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.ListStudents.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Login.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.MeE.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.OnlyStudent.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Properties.Resources.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Save.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Students.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.Teachers.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.TheMain.resources
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.csproj.GenerateResource.cache
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.exe
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\obj\Debug\DarQuran.pdb
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.mdb
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.exe.config
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.exe
+C:\Users\משתמש\Desktop\Projects\Ayman Wahbani\DarQuran\DarQuran\bin\Debug\DarQuran.pdb

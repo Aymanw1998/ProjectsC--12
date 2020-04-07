@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56EFD2A6-B566-44FC-8512-8D8F4575E937}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>liii</RootNamespace>
+    <AssemblyName>liii</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="add book.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add book.Designer.cs">
+      <DependentUpon>add book.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ashalot kayamot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ashalot kayamot.Designer.cs">
+      <DependentUpon>ashalot kayamot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="avialbe books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="avialbe books.Designer.cs">
+      <DependentUpon>avialbe books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bdikalhazmana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bdikalhazmana.Designer.cs">
+      <DependentUpon>bdikalhazmana.cs</DependentUpon>
+    </Compile>
+    <Compile Include="books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="books.Designer.cs">
+      <DependentUpon>books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="borrowcan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="borrowcan.Designer.cs">
+      <DependentUpon>borrowcan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="borrowing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="borrowing.Designer.cs">
+      <DependentUpon>borrowing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btokef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="btokef.Designer.cs">
+      <DependentUpon>btokef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="card.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="card.Designer.cs">
+      <DependentUpon>card.cs</DependentUpon>
+    </Compile>
+    <Compile Include="edubooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="edubooks.Designer.cs">
+      <DependentUpon>edubooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="find.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hazmanot kayamot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hazmanot kayamot.Designer.cs">
+      <DependentUpon>hazmanot kayamot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hazmanot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hazmanot.Designer.cs">
+      <DependentUpon>hazmanot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hazmanotcan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hazmanotcan.Designer.cs">
+      <DependentUpon>hazmanotcan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hazmanotli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hazmanotli.Designer.cs">
+      <DependentUpon>hazmanotli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hiaveem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hiaveem.Designer.cs">
+      <DependentUpon>hiaveem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="legends.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="legends.Designer.cs">
+      <DependentUpon>legends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="liDataSet.cs">
+      <DependentUpon>liDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="liDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>liDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="lobtokef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lobtokef.Designer.cs">
+      <DependentUpon>lobtokef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="new in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="new in.Designer.cs">
+      <DependentUpon>new in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="no reback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="no reback.Designer.cs">
+      <DependentUpon>no reback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="not_availbe_books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="not_availbe_books.Designer.cs">
+      <DependentUpon>not_availbe_books.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="spakim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spakim.Designer.cs">
+      <DependentUpon>spakim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="stories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="stories.Designer.cs">
+      <DependentUpon>stories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tkanon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tkanon.Designer.cs">
+      <DependentUpon>tkanon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trash.Designer.cs">
+      <DependentUpon>trash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="add book.resx">
+      <DependentUpon>add book.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ashalot kayamot.resx">
+      <DependentUpon>ashalot kayamot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="avialbe books.resx">
+      <DependentUpon>avialbe books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bdikalhazmana.resx">
+      <DependentUpon>bdikalhazmana.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="books.resx">
+      <DependentUpon>books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="borrowcan.resx">
+      <DependentUpon>borrowcan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="borrowing.resx">
+      <DependentUpon>borrowing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btokef.resx">
+      <DependentUpon>btokef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="card.resx">
+      <DependentUpon>card.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="edubooks.resx">
+      <DependentUpon>edubooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hazmanot kayamot.resx">
+      <DependentUpon>hazmanot kayamot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hazmanot.resx">
+      <DependentUpon>hazmanot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hazmanotcan.resx">
+      <DependentUpon>hazmanotcan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hazmanotli.resx">
+      <DependentUpon>hazmanotli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="legends.resx">
+      <DependentUpon>legends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lobtokef.resx">
+      <DependentUpon>lobtokef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="new in.resx">
+      <DependentUpon>new in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="no reback.resx">
+      <DependentUpon>no reback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="not_availbe_books.resx">
+      <DependentUpon>not_availbe_books.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="spakim.resx">
+      <DependentUpon>spakim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="stories.resx">
+      <DependentUpon>stories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tkanon.resx">
+      <DependentUpon>tkanon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trash.resx">
+      <DependentUpon>trash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="liDataSet.xsc">
+      <DependentUpon>liDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="liDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>liDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="liDataSet.xss">
+      <DependentUpon>liDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recycle-bin.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

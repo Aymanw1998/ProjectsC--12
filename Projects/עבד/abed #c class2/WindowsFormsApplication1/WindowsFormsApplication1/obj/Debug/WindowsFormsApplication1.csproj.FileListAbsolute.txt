@@ -1,0 +1,583 @@
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lakokhot.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.motzarim.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ovdim.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-16\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mnahlim.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lakokhot.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.motzarim.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ovdim.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lakokhot.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mnahlim.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.motzarim.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ovdim.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lakokhot.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.motzarim.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ovdim.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.lakokhot.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.motzarim.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ovdim.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-16\Desktop\תיקיה חדשה\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-16\Desktop\עבד נקיב\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+F:\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-15\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-18\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-18\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-18\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-16\Desktop\עבד חדש\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\עבד\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+F:\עבד1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\abed c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+F:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed c#22\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amin\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\user-16\Desktop\abed c#223\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\abed c#223\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\abed c#223\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-16\Desktop\abed c#2230\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-16\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\user-19\Desktop\abed c new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed new\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed new החדשה ביותר11111\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed new החדשה ביותר11111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר11111\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk22.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk22.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\abed new החדשה ביותר11\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk22.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed new החדשה ביותר1122\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk22.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed #c class\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk22.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hzSpk.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\abed.mdb
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmazkirot.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhlk22.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmkhirot.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Frmlakohot.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMnhlim.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmmotzarim.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmOvdim.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmshot.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.hzSpk.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.mikom.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.sokhnim.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.spakim.resources
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\amin\Desktop\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frm.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhazrot.resources
+D:\abed #c class2\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmhz1.resources

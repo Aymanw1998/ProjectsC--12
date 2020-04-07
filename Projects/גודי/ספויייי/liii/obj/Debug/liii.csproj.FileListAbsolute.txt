@@ -1,0 +1,753 @@
+D:\library\liii\liii\bin\Debug\liii.exe.config
+D:\library\liii\liii\bin\Debug\liii.exe
+D:\library\liii\liii\bin\Debug\liii.pdb
+D:\library\liii\liii\obj\Debug\liii.dohot.resources
+D:\library\liii\liii\obj\Debug\liii.Form1.resources
+D:\library\liii\liii\obj\Debug\liii.Properties.Resources.resources
+D:\library\liii\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+D:\library\liii\liii\obj\Debug\liii.exe
+D:\library\liii\liii\obj\Debug\liii.pdb
+D:\library\liii\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+D:\library\liii\liii\obj\Debug\liii.card.resources
+D:\library\liii\liii\obj\Debug\liii.add_book.resources
+D:\library\liii\liii\obj\Debug\liii.borrowing.resources
+D:\library\liii\liii\obj\Debug\liii.books.resources
+D:\library\liii\liii\obj\Debug\liii.hazmanot.resources
+D:\library\liii\liii\obj\Debug\liii.tkanon.resources
+D:\library\liii\liii\obj\Debug\liii.avialbe_books.resources
+D:\library\liii\liii\obj\Debug\liii.no_reback.resources
+D:\library\liii\liii\obj\Debug\liii.spakim.resources
+F:\liii\liii\bin\Debug\liii.exe.config
+F:\liii\liii\obj\Debug\liii.exe
+F:\liii\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\library\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\library\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\library\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\library\liii\bin\Debug\liii.pdb
+E:\library\liii\bin\Debug\liii.exe.config
+E:\library\liii\obj\Debug\liii.exe
+E:\library\liii\obj\Debug\liii.pdb
+F:\library\liii\bin\Debug\liii.exe.config
+F:\library\liii\obj\Debug\liii.exe
+F:\library\liii\obj\Debug\liii.pdb
+F:\library\liii\bin\Debug\liii.exe
+F:\library\liii\bin\Debug\liii.pdb
+F:\library\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+F:\library\liii\obj\Debug\liii.add_book.resources
+F:\library\liii\obj\Debug\liii.avialbe_books.resources
+F:\library\liii\obj\Debug\liii.books.resources
+F:\library\liii\obj\Debug\liii.borrowing.resources
+F:\library\liii\obj\Debug\liii.card.resources
+F:\library\liii\obj\Debug\liii.Form1.resources
+F:\library\liii\obj\Debug\liii.hazmanot.resources
+F:\library\liii\obj\Debug\liii.no_reback.resources
+F:\library\liii\obj\Debug\liii.Properties.Resources.resources
+F:\library\liii\obj\Debug\liii.spakim.resources
+F:\library\liii\obj\Debug\liii.tkanon.resources
+F:\library\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\new\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\new\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\new\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\new\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\judyyyyy\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\judyyyyy\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\judyyyyy\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\judyyyyy\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\judyyyyyyyy\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\jjudyyyy\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\jjudyyyy\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\jjudyyyy\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\jjudyyyy\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\new judy\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\new judy\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\new judy\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\new judy\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+E:\new new\liii\bin\Debug\liii.exe.config
+E:\new new\liii\obj\Debug\liii.exe
+E:\new new\liii\obj\Debug\liii.pdb
+E:\new new\liii\bin\Debug\liii.exe
+E:\new new\liii\bin\Debug\liii.pdb
+E:\new new\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+E:\new new\liii\obj\Debug\liii.add_book.resources
+E:\new new\liii\obj\Debug\liii.avialbe_books.resources
+E:\new new\liii\obj\Debug\liii.books.resources
+E:\new new\liii\obj\Debug\liii.borrowing.resources
+E:\new new\liii\obj\Debug\liii.card.resources
+E:\new new\liii\obj\Debug\liii.Form1.resources
+E:\new new\liii\obj\Debug\liii.Form2.resources
+E:\new new\liii\obj\Debug\liii.hazmanot.resources
+E:\new new\liii\obj\Debug\liii.no_reback.resources
+E:\new new\liii\obj\Debug\liii.Properties.Resources.resources
+E:\new new\liii\obj\Debug\liii.spakim.resources
+E:\new new\liii\obj\Debug\liii.tkanon.resources
+E:\new new\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\newwwww\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\newwwww\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\newwwww\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\newwwww\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\jd\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\jd\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\jd\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\jd\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\jd li\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\jd li\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\jd li\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\jd li\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\JD NEWW\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\JD NEWW\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\JD NEWW\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\JD NEWW\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\jd neww neww\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\jd neww neww\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\jd neww neww\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\jd neww neww\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\10\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\10\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\10\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\10\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\newest\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\newest\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\newest\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\newest\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+E:\the newest\liii\bin\Debug\liii.exe.config
+E:\the newest\liii\obj\Debug\liii.exe
+E:\the newest\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\the newest\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\the newest\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\the newest\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\the newest\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\neww10\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\neww10\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\neww10\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\neww10\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\judy newww\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy newww\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\judy newww\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\judy newww\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\judy the newest\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy the newest\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\judy the newest\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\judy the newest\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\judy the newest10\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy the newest10\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\judy the newest10\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\judy the newest10\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\judy the newest newest\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy the newest newest\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\judy the newest newest\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\judy the newest newest\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+E:\jdeed jdeed\liii\bin\Debug\liii.exe.config
+E:\jdeed jdeed\liii\obj\Debug\liii.exe
+E:\jdeed jdeed\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\jdeed jdeed\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.trash.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\jdeed jdeed\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\jdeed jdeed\liii\bin\Debug\liii.pdb
+E:\jdeed jdeed\liii\bin\Debug\liii.exe
+E:\jdeed jdeed\liii\bin\Debug\liii.pdb
+E:\jdeed jdeed\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+E:\jdeed jdeed\liii\obj\Debug\liii.add_book.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.ashalot_kayamot.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.avialbe_books.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.bdikalhazmana.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.books.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.borrowing.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.card.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.edubooks.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.Form1.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.Form2.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.hazmanot_kayamot.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.hazmanot.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.hazmanotli.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.legends.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.lobtokef.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.new_in.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.no_reback.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.not_availbe_books.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.Properties.Resources.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.spakim.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.stories.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.tkanon.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.trash.resources
+E:\jdeed jdeed\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+E:\jdeed jdeed\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.hazmanotcan.resources
+C:\Users\Judy\Desktop\jdeed jdeed\liii\obj\Debug\liii.btokef.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\hakhy hadash\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\hakhy hadash\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.btokef.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.hazmanotcan.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.trash.resources
+C:\Users\Judy\Desktop\hakhy hadash\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\library tje newest\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\library tje newest\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\library tje newest\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.btokef.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.hazmanotcan.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.trash.resources
+C:\Users\Judy\Desktop\library tje newest\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\finall project\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\finall project\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\finall project\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.btokef.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.hazmanotcan.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.trash.resources
+C:\Users\Judy\Desktop\finall project\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\finall finall\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\finall finall\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\finall finall\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.btokef.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.hazmanotcan.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.trash.resources
+C:\Users\Judy\Desktop\finall finall\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Judy\Desktop\סופי\liii\bin\Debug\liii.exe.config
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.exe
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.pdb
+C:\Users\Judy\Desktop\סופי\liii\bin\Debug\liii.exe
+C:\Users\Judy\Desktop\סופי\liii\bin\Debug\liii.pdb
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.add_book.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.ashalot_kayamot.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.avialbe_books.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.bdikalhazmana.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.books.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.borrowcan.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.borrowing.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.btokef.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.card.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.edubooks.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.Form1.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.Form2.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.hazmanot_kayamot.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.hazmanot.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.hazmanotcan.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.hazmanotli.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.legends.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.lobtokef.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.new_in.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.no_reback.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.not_availbe_books.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.Properties.Resources.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.spakim.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.stories.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.tkanon.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.trash.resources
+C:\Users\Judy\Desktop\סופי\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+F:\ספויייי\liii\bin\Debug\liii.exe.config
+F:\ספויייי\liii\obj\Debug\liii.exe
+F:\ספויייי\liii\obj\Debug\liii.pdb
+E:\ספויייי\liii\bin\Debug\liii.exe.config
+E:\ספויייי\liii\obj\Debug\liii.exe
+E:\ספויייי\liii\obj\Debug\liii.pdb
+E:\ספויייי\liii\bin\Debug\liii.exe
+E:\ספויייי\liii\bin\Debug\liii.pdb
+E:\ספויייי\liii\obj\Debug\liii.csprojResolveAssemblyReference.cache
+E:\ספויייי\liii\obj\Debug\liii.add_book.resources
+E:\ספויייי\liii\obj\Debug\liii.ashalot_kayamot.resources
+E:\ספויייי\liii\obj\Debug\liii.avialbe_books.resources
+E:\ספויייי\liii\obj\Debug\liii.bdikalhazmana.resources
+E:\ספויייי\liii\obj\Debug\liii.books.resources
+E:\ספויייי\liii\obj\Debug\liii.borrowcan.resources
+E:\ספויייי\liii\obj\Debug\liii.borrowing.resources
+E:\ספויייי\liii\obj\Debug\liii.btokef.resources
+E:\ספויייי\liii\obj\Debug\liii.card.resources
+E:\ספויייי\liii\obj\Debug\liii.edubooks.resources
+E:\ספויייי\liii\obj\Debug\liii.Form1.resources
+E:\ספויייי\liii\obj\Debug\liii.Form2.resources
+E:\ספויייי\liii\obj\Debug\liii.hazmanot_kayamot.resources
+E:\ספויייי\liii\obj\Debug\liii.hazmanot.resources
+E:\ספויייי\liii\obj\Debug\liii.hazmanotcan.resources
+E:\ספויייי\liii\obj\Debug\liii.hazmanotli.resources
+E:\ספויייי\liii\obj\Debug\liii.legends.resources
+E:\ספויייי\liii\obj\Debug\liii.lobtokef.resources
+E:\ספויייי\liii\obj\Debug\liii.new_in.resources
+E:\ספויייי\liii\obj\Debug\liii.no_reback.resources
+E:\ספויייי\liii\obj\Debug\liii.not_availbe_books.resources
+E:\ספויייי\liii\obj\Debug\liii.Properties.Resources.resources
+E:\ספויייי\liii\obj\Debug\liii.spakim.resources
+E:\ספויייי\liii\obj\Debug\liii.stories.resources
+E:\ספויייי\liii\obj\Debug\liii.tkanon.resources
+E:\ספויייי\liii\obj\Debug\liii.trash.resources
+E:\ספויייי\liii\obj\Debug\liii.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\אנואר מחשבים\הנדסת תוכנה\עבודות גמר הנדסת תוכנה 2018\גודי 322769589\ספויייי\liii\bin\Debug\liii.exe.config
+C:\Users\Comp-19\Desktop\אנואר מחשבים\הנדסת תוכנה\עבודות גמר הנדסת תוכנה 2018\גודי 322769589\ספויייי\liii\obj\Debug\liii.exe
+C:\Users\Comp-19\Desktop\אנואר מחשבים\הנדסת תוכנה\עבודות גמר הנדסת תוכנה 2018\גודי 322769589\ספויייי\liii\obj\Debug\liii.pdb

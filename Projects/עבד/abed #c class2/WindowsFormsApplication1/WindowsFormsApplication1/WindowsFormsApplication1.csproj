@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{463CA59D-C867-436A-A313-9FC1A2F1C393}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\frmMain.cs">
+      <SubType>Form</SubType>
+      <Link>frmMain.cs</Link>
+    </Compile>
+    <Compile Include="..\..\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <Link>frmMain.Designer.cs</Link>
+    </Compile>
+    <Compile Include="abedDataSet.cs">
+      <DependentUpon>abedDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="abedDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>abedDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="class1.cs" />
+    <Compile Include="frm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm.Designer.cs">
+      <DependentUpon>frm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmazkirot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmazkirot.Designer.cs">
+      <DependentUpon>frmazkirot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhazrot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhazrot.Designer.cs">
+      <DependentUpon>frmhazrot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhlk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhlk.Designer.cs">
+      <DependentUpon>frmhlk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhlk22.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhlk22.Designer.cs">
+      <DependentUpon>frmhlk22.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmhz1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmhz1.Designer.cs">
+      <DependentUpon>frmhz1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmkhirot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmkhirot.Designer.cs">
+      <DependentUpon>frmkhirot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmlakohot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmlakohot.Designer.cs">
+      <DependentUpon>Frmlakohot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMnhlim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMnhlim.Designer.cs">
+      <DependentUpon>frmMnhlim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmotzarim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmotzarim.Designer.cs">
+      <DependentUpon>frmmotzarim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOvdim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOvdim.Designer.cs">
+      <DependentUpon>frmOvdim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmshot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmshot.Designer.cs">
+      <DependentUpon>frmshot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hzSpk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hzSpk.Designer.cs">
+      <DependentUpon>hzSpk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mikom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mikom.Designer.cs">
+      <DependentUpon>mikom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="number.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sokhnim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sokhnim.Designer.cs">
+      <DependentUpon>sokhnim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="spakim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spakim.Designer.cs">
+      <DependentUpon>spakim.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="..\..\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <Link>frmMain.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm.resx">
+      <DependentUpon>frm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmazkirot.resx">
+      <DependentUpon>frmazkirot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhazrot.resx">
+      <DependentUpon>frmhazrot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhlk.resx">
+      <DependentUpon>frmhlk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhlk22.resx">
+      <DependentUpon>frmhlk22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmhz1.resx">
+      <DependentUpon>frmhz1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmkhirot.resx">
+      <DependentUpon>frmkhirot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmlakohot.resx">
+      <DependentUpon>Frmlakohot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMnhlim.resx">
+      <DependentUpon>frmMnhlim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmotzarim.resx">
+      <DependentUpon>frmmotzarim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOvdim.resx">
+      <DependentUpon>frmOvdim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmshot.resx">
+      <DependentUpon>frmshot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hzSpk.resx">
+      <DependentUpon>hzSpk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mikom.resx">
+      <DependentUpon>mikom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="sokhnim.resx">
+      <DependentUpon>sokhnim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spakim.resx">
+      <DependentUpon>spakim.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="abedDataSet.xsc">
+      <DependentUpon>abedDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="abedDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>abedDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="abedDataSet.xss">
+      <DependentUpon>abedDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="abed.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

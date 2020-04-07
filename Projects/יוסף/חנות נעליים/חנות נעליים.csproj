@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{39E805A1-D059-4174-BD0F-9AB6F0098A88}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>חנות_נעליים</RootNamespace>
+    <AssemblyName>חנות נעליים</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="archives.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="archives.Designer.cs">
+      <DependentUpon>archives.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clock.Designer.cs">
+      <DependentUpon>clock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enter.Designer.cs">
+      <DependentUpon>enter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mahlakot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mahlakot.Designer.cs">
+      <DependentUpon>mahlakot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainform.Designer.cs">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="menahel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="menahel.Designer.cs">
+      <DependentUpon>menahel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mishmarot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mishmarot.Designer.cs">
+      <DependentUpon>mishmarot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ovdeem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ovdeem.Designer.cs">
+      <DependentUpon>ovdeem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="shoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shoes.Designer.cs">
+      <DependentUpon>shoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shoe_shopDataSet.cs">
+      <DependentUpon>shoe_shopDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="shoe_shopDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>shoe_shopDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="shop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shop.Designer.cs">
+      <DependentUpon>shop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="spakim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="spakim.Designer.cs">
+      <DependentUpon>spakim.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="archives.resx">
+      <DependentUpon>archives.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="clock.resx">
+      <DependentUpon>clock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enter.resx">
+      <DependentUpon>enter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mahlakot.resx">
+      <DependentUpon>mahlakot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainform.resx">
+      <DependentUpon>mainform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="menahel.resx">
+      <DependentUpon>menahel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mishmarot.resx">
+      <DependentUpon>mishmarot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ovdeem.resx">
+      <DependentUpon>ovdeem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="shoes.resx">
+      <DependentUpon>shoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shop.resx">
+      <DependentUpon>shop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="spakim.resx">
+      <DependentUpon>spakim.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="shoe_shopDataSet.xsc">
+      <DependentUpon>shoe_shopDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="shoe_shopDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>shoe_shopDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="shoe_shopDataSet.xss">
+      <DependentUpon>shoe_shopDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\go-back-button.png" />
+    <Content Include="shoe shop.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

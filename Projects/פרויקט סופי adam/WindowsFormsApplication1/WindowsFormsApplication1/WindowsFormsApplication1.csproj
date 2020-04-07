@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{53905A25-115D-412D-AF55-76589FC76B5D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DoctorsNursesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoctorsNursesForm.Designer.cs">
+      <DependentUpon>DoctorsNursesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterForm.Designer.cs">
+      <DependentUpon>EnterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterWorkForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterWorkForm.Designer.cs">
+      <DependentUpon>EnterWorkForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HazmanotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HazmanotForm.Designer.cs">
+      <DependentUpon>HazmanotForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HospitalDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MishmarotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MishmarotForm.Designer.cs">
+      <DependentUpon>MishmarotForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OvdimForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OvdimForm.Designer.cs">
+      <DependentUpon>OvdimForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RashiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RashiForm.Designer.cs">
+      <DependentUpon>RashiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapakForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapakForm.Designer.cs">
+      <DependentUpon>SapakForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TsyodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TsyodForm.Designer.cs">
+      <DependentUpon>TsyodForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="DoctorsNursesForm.resx">
+      <DependentUpon>DoctorsNursesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterForm.he-IL.resx">
+      <DependentUpon>EnterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterForm.he.resx">
+      <DependentUpon>EnterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterForm.resx">
+      <DependentUpon>EnterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterWorkForm.resx">
+      <DependentUpon>EnterWorkForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HazmanotForm.resx">
+      <DependentUpon>HazmanotForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MishmarotForm.resx">
+      <DependentUpon>MishmarotForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OvdimForm.resx">
+      <DependentUpon>OvdimForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RashiForm.resx">
+      <DependentUpon>RashiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapakForm.resx">
+      <DependentUpon>SapakForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TsyodForm.resx">
+      <DependentUpon>TsyodForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="HospitalDataSet.xsc">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HospitalDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HospitalDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HospitalDataSet.xss">
+      <DependentUpon>HospitalDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Assaf-Harofeh-Medical-Center.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1879176.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\111.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\222.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1455664674_icon-22-eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1455664683_icon-21-eye-hidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\52882.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\999.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5555.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\27182showing.png" />
+    <None Include="Resources\c0dp42g.jpg" />
+    <None Include="Resources\images.jpg" />
+    <Content Include="Scripts\ng-focus-on.js" />
+    <Content Include="Scripts\ng-focus-on.min.js" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

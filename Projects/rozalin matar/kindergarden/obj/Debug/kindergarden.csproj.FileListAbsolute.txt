@@ -1,0 +1,315 @@
+D:\1kindergarden\kindergarden\bin\Debug\kindergarden.exe.config
+D:\1kindergarden\kindergarden\bin\Debug\kindergarden.exe
+D:\1kindergarden\kindergarden\bin\Debug\kindergarden.pdb
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.exe
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergarden\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\user-19\Desktop\kindergarden\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\kindergarden\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergarden\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\kindergarden\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergarden\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\kindergarden\kindergarden\obj\Debug\kindergarden.Form1.resources
+C:\Users\user-19\Desktop\kindergarden\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\user-19\Desktop\kindergarden\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\1kindergarden\kindergarden\bin\Debug\kindergarden.exe.config
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.exe
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.pdb
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\1kindergarden\kindergarden\bin\Debug\kindergarden.exe
+F:\1kindergarden\kindergarden\bin\Debug\kindergarden.pdb
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormMetaplot.resources
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormMetaplot.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\1kindergarden\kindergarden\bin\Debug\kindergarden.pdb
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+F:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\1kindergarden\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\rozalin 1\Desktop\1kindergarden\kindergarden\bin\Debug\kindergarden.pdb
+F:\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+F:\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+F:\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+D:\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+D:\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+D:\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+D:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Form1.resources
+F:\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+F:\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+F:\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+F:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\user-19\Desktop\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+D:\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+D:\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+D:\21kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+D:\21kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+D:\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\kindergardenהכי חדש(בעיה עם החוגים)\kindergarden\bin\Debug\kindergarden.exe.config
+F:\kindergardenהכי חדש(בעיה עם החוגים)\kindergarden\obj\Debug\kindergarden.exe
+F:\kindergardenהכי חדש(בעיה עם החוגים)\kindergarden\obj\Debug\kindergarden.pdb
+D:\kindergardenהכי חדש(אחרון)\kindergarden\bin\Debug\kindergarden.exe.config
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.exe
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.pdb
+D:\kindergardenהכי חדש(אחרון)\kindergarden\bin\Debug\kindergarden.exe
+D:\kindergardenהכי חדש(אחרון)\kindergarden\bin\Debug\kindergarden.pdb
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+D:\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\rozalin 1\Desktop\kindergardenהכי חדש(אחרון)\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.exe.config
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.exe
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.pdb
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.exe
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.pdb
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormMain.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+F:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.exe.config
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.exe
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.pdb
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.exe
+D:\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\user-19\Desktop\kindergardenהכי חדש(כולל מחיקה)\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+F:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+F:\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+F:\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+D:\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+D:\kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+D:\kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\rozalin 1\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\user-19\Desktop\1kindergardenהכי חדש\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.pdb
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\bin\Debug\kindergarden.exe
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\bin\Debug\kindergarden.pdb
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.csprojResolveAssemblyReference.cache
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.FormHogim.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.FormKitot.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.FormLogin.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.FormMain.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.formMetaplot.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.FormSfarim.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.FormYeladim.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.Properties.Resources.resources
+C:\Users\Comp-19\Desktop\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\אנואר מחשבים\עבודות בגרות יב 2017\rozalin matar\kindergarden\bin\Debug\kindergarden.exe.config
+C:\Users\Comp-19\Desktop\אנואר מחשבים\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.exe
+C:\Users\Comp-19\Desktop\אנואר מחשבים\עבודות בגרות יב 2017\rozalin matar\kindergarden\obj\Debug\kindergarden.pdb

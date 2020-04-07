@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{640CBADB-C922-4231-9E89-8AAA4813C35D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>christina_hourses</RootNamespace>
+    <AssemblyName>christina hourses</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="enter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enter.Designer.cs">
+      <DependentUpon>enter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_activity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_activity.Designer.cs">
+      <DependentUpon>Form_activity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_horses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_horses.Designer.cs">
+      <DependentUpon>Form_horses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_lekohot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_lekohot.Designer.cs">
+      <DependentUpon>Form_lekohot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_sapakim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_sapakim.Designer.cs">
+      <DependentUpon>Form_sapakim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tsiood.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tsiood.Designer.cs">
+      <DependentUpon>Form_tsiood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_workers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_workers.Designer.cs">
+      <DependentUpon>Form_workers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hoursesDataSet.cs">
+      <DependentUpon>hoursesDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="hoursesDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>hoursesDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="mascoret.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mascoret.Designer.cs">
+      <DependentUpon>mascoret.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="yoman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yoman.Designer.cs">
+      <DependentUpon>yoman.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="enter.resx">
+      <DependentUpon>enter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_activity.resx">
+      <DependentUpon>Form_activity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_horses.resx">
+      <DependentUpon>Form_horses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_lekohot.resx">
+      <DependentUpon>Form_lekohot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_sapakim.resx">
+      <DependentUpon>Form_sapakim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tsiood.resx">
+      <DependentUpon>Form_tsiood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_workers.resx">
+      <DependentUpon>Form_workers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mascoret.resx">
+      <DependentUpon>mascoret.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="yoman.resx">
+      <DependentUpon>yoman.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="hoursesDataSet.xsc">
+      <DependentUpon>hoursesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="hoursesDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>hoursesDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="hoursesDataSet.xss">
+      <DependentUpon>hoursesDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the horseman.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

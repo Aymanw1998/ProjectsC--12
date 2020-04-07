@@ -1,0 +1,67 @@
+  {
+          ////  if (ss[] != '/' && ss[5] != '/')
+          //  {
+          //      if ((Convert.ToInt32(ss[0]) > 0 && Convert.ToInt32(ss[0]) <= 9))
+          //          if (Convert.ToInt32(ss[2]) > 0 && Convert.ToInt32(ss[2]) <= 9)
+          //              return true;
+          //  }
+                
+            if (ss[1].ToString()!= "")// הימים מורכב משתי ספרות
+            {
+                if (Convert.ToInt32(ss[0]) >= 1 && Convert.ToInt32(ss[0]) <= 3)
+                {
+                    if (int.Parse(ss[0].ToString()) == 3)
+                    {
+                        if (Convert.ToInt32(ss[1]) != 0 || Convert.ToInt32(ss[1]) != 1)
+                        {
+                            return false;
+                        }                      
+                    }
+                    else if (Convert.ToInt32(ss[1]) < 0 || Convert.ToInt32(ss[1]) > 9)
+                        return false;
+                    else
+                    {                       
+                        if (ss[4].ToString() !="")//החודש מורכב משתי ספרות
+                        {
+                            if (Convert.ToInt32(ss[3]) != 1)
+                            {
+                                return false;
+                            }
+                            else if (Convert.ToInt32(ss[4]) != 0 || Convert.ToInt32(ss[4]) != 1 || Convert.ToInt32(ss[4]) != 2)
+                                return false;
+                            else if (Convert.ToInt32(ss[8]) > 3 && Convert.ToInt32(ss[9]) > 3)
+                                return false;
+                            else
+                                return true;
+                        }
+                        else if ((Convert.ToInt32(ss[3]) < 0 || Convert.ToInt32(ss[3]) > 9))
+                            return false ;
+                        else return true;
+                    }
+                }
+            }
+            else //הימים מורכב מספרה אחת
+            {
+                if ((Convert.ToInt32(ss[0]) < 0 || Convert.ToInt32(ss[0]) > 9))
+                    return false;
+                else if (ss[4].ToString() != "")//החודש מורכב משתי ספרות
+                {
+                    if (Convert.ToInt32(ss[2]) != 1)
+                            {
+                                return false;
+                            }
+                            else if (Convert.ToInt32(ss[3])<0||Convert.ToInt32(ss[3])>9)
+                                return false;
+                            else if (Convert.ToInt32(ss[8]) > 3 && Convert.ToInt32(ss[9]) > 3)
+                                return false;
+                            else
+                                return true;
+                }
+                   else if ((Convert.ToInt32(ss[2]) < 0 || Convert.ToInt32(ss[2]) > 9))//החודש מורכב מספרה אחת
+                            return false ;
+                        else return true;
+            }
+            return true;
+        }
+    }
+}

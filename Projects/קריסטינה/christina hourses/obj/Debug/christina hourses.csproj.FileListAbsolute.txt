@@ -1,0 +1,227 @@
+F:\christina hourses\christina hourses\bin\Debug\christina hourses.exe.config
+F:\christina hourses\christina hourses\bin\Debug\christina hourses.exe
+F:\christina hourses\christina hourses\bin\Debug\christina hourses.pdb
+F:\christina hourses\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form1.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+F:\christina hourses\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+F:\christina hourses\christina hourses\obj\Debug\christina hourses.exe
+F:\christina hourses\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_eqipment.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+F:\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\bin\Debug\christina hourses.exe.config
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina hourses.exe
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina hourses.pdb
+C:\Users\user-19\Desktop\christina hourses\christina hourses\bin\Debug\hourses.mdb
+C:\Users\user-19\Desktop\christina hourses\christina hourses\bin\Debug\christina hourses.exe
+C:\Users\user-19\Desktop\christina hourses\christina hourses\bin\Debug\christina hourses.pdb
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form1.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_eqipment.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+C:\Users\user-19\Desktop\christina hourses\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+F:\christina hoursesfinal\christina hourseschristina hourses.exe.config
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina hourses.exe
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hoursesfinal\christina hourseshourses.mdb
+F:\christina hoursesfinal\christina hourseschristina hourses.exe
+F:\christina hoursesfinal\christina hourseschristina hourses.pdb
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form1.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_eqipment.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+C:\Users\user-19\Desktop\christina hourses1\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+F:\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.exe.config
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.exe
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.exe
+F:\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.pdb
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form1.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.exe.config
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.exe
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.pdb
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\bin\Debug\hourses.mdb
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.exe
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.pdb
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form1.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_eqipment.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+C:\Users\user-19\Desktop\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+F:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\bin\Debug\christina hourses.exe.config
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina hourses.exe
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina hourses.pdb
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\bin\Debug\christina hourses.exe
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\bin\Debug\christina hourses.pdb
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form1.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+D:\christina hoursesfinal\hourses.mdb\hourses.mdb\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+D:\christina hoursesfinal\hourses.mdb\christina hourses\bin\Debug\christina hourses.exe.config
+D:\christina hoursesfinal\hourses.mdb\christina hourses\obj\Debug\christina hourses.exe
+D:\christina hoursesfinal\hourses.mdb\christina hourses\obj\Debug\christina hourses.pdb
+D:\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.exe.config
+D:\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.exe
+D:\christina hoursesfinal\christina hourses\bin\Debug\christina hourses.pdb
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form1.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.exe
+D:\christina hoursesfinal\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hoursesfinal2\christina hourses\bin\Debug\christina hourses.exe.config
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina hourses.exe
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hoursesfinal2\christina hourses\bin\Debug\christina hourses.exe
+F:\christina hoursesfinal2\christina hourses\bin\Debug\christina hourses.pdb
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form1.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_diary.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_horses.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+F:\christina hoursesfinal2\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+d:\Users\Christina\Desktop\christina hoursesfinal2\christina hourses\bin\Debug\christina hourses.exe.config
+d:\Users\Christina\Desktop\christina hoursesfinal2\christina hourses\obj\Debug\christina hourses.exe
+d:\Users\Christina\Desktop\christina hoursesfinal2\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe.config
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.exe
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.pdb
+F:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe
+F:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.pdb
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form1.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.next.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.enter.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.mascoret.resources
+F:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.yoman.resources
+D:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe.config
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.exe
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.pdb
+D:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe
+D:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.pdb
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.enter.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form1.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.next.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.mascoret.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.yoman.resources
+D:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+E:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe.config
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.exe
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.pdb
+E:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe
+E:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.pdb
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.enter.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form1.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.next.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.mascoret.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.yoman.resources
+E:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+G:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe.config
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.exe
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.pdb
+G:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.exe
+G:\christina hoursesfinal3\christina hourses\bin\Debug\christina hourses.pdb
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csprojResolveAssemblyReference.cache
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.enter.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form1.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_main.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_activity.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.next.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_lekohot.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_sapakim.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_tsiood.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Form_workers.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.mascoret.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.Properties.Resources.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina_hourses.yoman.resources
+G:\christina hoursesfinal3\christina hourses\obj\Debug\christina hourses.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\אנואר מחשבים\2018\עבודות גמר הנדסת תוכנה 2018\קריסטינה 318939147\christina hourses\bin\Debug\christina hourses.exe.config
+C:\Users\Comp-19\Desktop\אנואר מחשבים\2018\עבודות גמר הנדסת תוכנה 2018\קריסטינה 318939147\christina hourses\obj\Debug\christina hourses.exe
+C:\Users\Comp-19\Desktop\אנואר מחשבים\2018\עבודות גמר הנדסת תוכנה 2018\קריסטינה 318939147\christina hourses\obj\Debug\christina hourses.pdb
+C:\Users\Comp-19\Desktop\אנואר מחשבים\הנדסת תוכנה\עבודות גמר הנדסת תוכנה 2018\קריסטינה 318939147\christina hourses\bin\Debug\christina hourses.exe.config
+C:\Users\Comp-19\Desktop\אנואר מחשבים\הנדסת תוכנה\עבודות גמר הנדסת תוכנה 2018\קריסטינה 318939147\christina hourses\obj\Debug\christina hourses.exe
+C:\Users\Comp-19\Desktop\אנואר מחשבים\הנדסת תוכנה\עבודות גמר הנדסת תוכנה 2018\קריסטינה 318939147\christina hourses\obj\Debug\christina hourses.pdb

@@ -1,0 +1,155 @@
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\user-19\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+C:\Users\adam\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-19\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OvdimForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HazmanotForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SapakForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TsyodForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HazmanotForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OvdimForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SapakForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TsyodForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he-IL.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he\WindowsFormsApplication1.resources.dll
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he-IL\WindowsFormsApplication1.resources.dll
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he\WindowsFormsApplication1.resources.dll
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HazmanotForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OvdimForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SapakForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TsyodForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he-IL.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he-IL\WindowsFormsApplication1.resources.dll
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he-IL.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoctorsNursesForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoctorsNursesForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoctorsNursesForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MishmarotForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MishmarotForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RashiForm.resources
+C:\Users\adam\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RashiForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MishmarotForm.resources
+F:\בית ספר\מחשבים\C#\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RashiForm.resources
+C:\Users\user-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterWorkForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoctorsNursesForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterWorkForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HazmanotForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MishmarotForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OvdimForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RashiForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SapakForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TsyodForm.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he-IL.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he.resources
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\אנואר\בגרות יב 2016\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Comp-19\Desktop\אנואר\בגרות יב 2016\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Comp-19\Desktop\אנואר\בגרות יב 2016\עבודות יב\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoctorsNursesForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterWorkForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.HazmanotForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MishmarotForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.OvdimForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RashiForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.SapakForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TsyodForm.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he-IL.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterForm.he.resources
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he-IL\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\he\WindowsFormsApplication1.resources.dll
+C:\Users\Comp-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Comp-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Comp-19\Desktop\פרויקט סופי\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Comp-19\Desktop\פרויקט סופי adam\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
